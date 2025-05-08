@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/styles/index.scss"],"sourcesContent":["body {\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n  font-family: Roboto, sans-serif;\n}\n"],"names":[],"version":3,"file":"layout_product-cards.e378193d.css.map","sourceRoot":"/__parcel_source_root/"}

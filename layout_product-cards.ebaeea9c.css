@@ -1,0 +1,76 @@
+.card {
+  box-sizing: content-box;
+  width: 200px;
+  height: 406px;
+}
+
+.card__img {
+  width: 160px;
+  height: 134px;
+  margin: 0 19px;
+  padding-top: 32px;
+  display: block;
+}
+
+.card__title {
+  color: #060b35;
+  max-width: 166px;
+  margin: 40px 16px 4px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+}
+
+.card__code {
+  color: #616070;
+  margin: 0 84px 16px 16px;
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.card__price {
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 24px;
+  padding: 0 16px;
+  display: flex;
+}
+
+.card__price-label {
+  color: #616070;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+.card__price-value {
+  color: #060b35;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18px;
+}
+
+.card__button {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #00acdc;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  width: 166px;
+  height: 40px;
+  margin: 16px;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all .3s;
+  display: flex;
+}
+
+.card__button:hover {
+  color: #00acdc;
+  background-color: #fff;
+  border: 1px solid #00acdc;
+}
+/*# sourceMappingURL=layout_product-cards.ebaeea9c.css.map */
